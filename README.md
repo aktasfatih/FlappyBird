@@ -4,8 +4,8 @@ This is a simple Flappy-Bird game written by using Python programming language. 
 ##How-to
  - Try to execute the file named 'save1.py' in terminal by writing
 
-'''
+```
 sudo python save1.py
-'''
+```
 
  - The game will start easily
